@@ -2,5 +2,6 @@ var playlist = new Object({ 'Korn': 'Did My Time', 'Slowdive': 'Alison', 'My Blo
 
 
 function updatePlaylist(playlist, artistName, songTitle){
+  playlist['Phil Ochs'] = ''
   return Object.assign({}, playlist, { [artistName]: songTitle })
 }
