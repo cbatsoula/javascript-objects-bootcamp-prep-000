@@ -4,3 +4,6 @@ var playlist = new Object({'Slowdive': 'Alison', 'My Bloody Valentine': 'Sometim
 function updatePlaylist(Playlist, artistName, songTitle){
   
 }
+function removeFromPlaylist(playlist, artistName){
+  
+}
