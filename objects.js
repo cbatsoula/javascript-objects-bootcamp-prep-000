@@ -1,4 +1,4 @@
-var playlist = new Object({ korn: 'did my time' })
+var playlist = new Object({ 'Korn': 'Did my time', 'slowdive': 'alison', 'my bloody valentine': 'Sometimes' })
 
 
 function updatePlaylist(playlist, artistName, songTitle){
