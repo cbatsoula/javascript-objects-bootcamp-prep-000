@@ -1,1 +1,1 @@
-playlist
+var playlist = new Object({ korn: 'did my time'})
