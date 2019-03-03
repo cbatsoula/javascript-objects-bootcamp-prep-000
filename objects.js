@@ -1,5 +1,5 @@
-var playlist = new Object({ : 'did my time'})
-playlist.jinjer = 'words of wisdom';
+var playlist = new Object({'Slowdive': 'Alison', 'My Bloody Valentine': 'Sometimes', 'Phil Ochs': "Here's to the State of Mississippi"})
+
 
 function updatePlaylist(Playlist, artistName, songTitle){
   
